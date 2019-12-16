@@ -37,10 +37,23 @@ class GameViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "GCell", for: indexPath) as! GameCell
-        let game = dataManager.games[indexPath.row]
-              
-        cell.titleLabel.text = game
+        let g = dataManager.games[indexPath.row]
+        let a = dataManager.achievements
+        var items = 0
+        var completedItems = 0
+         
+        for item in a {
+            if item.applicationName == g{
+                items+=1
+                if item.progress == "100%"{
+                    completedItems += 1
+                }
+            }
+            
+        }
         
+        cell.titleLabel.text = g
+        cell.progressLabel.text = "\(completedItems) | \(items)"
         
         return cell
     }

@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E1EBFA523A841CF00E57209 /* ACHIEVEMENTS.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E1EBFA423A841CF00E57209 /* ACHIEVEMENTS.json */; };
 		8E39968A23A7B546002CA841 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E39968923A7B546002CA841 /* AppDelegate.swift */; };
 		8E39968C23A7B546002CA841 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E39968B23A7B546002CA841 /* SceneDelegate.swift */; };
 		8E39968E23A7B546002CA841 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E39968D23A7B546002CA841 /* GameViewController.swift */; };
 		8E39969123A7B546002CA841 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E39968F23A7B546002CA841 /* Main.storyboard */; };
 		8E39969323A7B547002CA841 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E39969223A7B547002CA841 /* Assets.xcassets */; };
 		8E39969623A7B547002CA841 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E39969423A7B547002CA841 /* LaunchScreen.storyboard */; };
-		8E39969E23A7B5AA002CA841 /* ACHIEVEMENTS.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E39969D23A7B5AA002CA841 /* ACHIEVEMENTS.json */; };
 		8E3996A323A7B7B1002CA841 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3996A223A7B7B1002CA841 /* DataManager.swift */; };
 		8E3996A523A7BCAB002CA841 /* AchievementData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3996A423A7BCAB002CA841 /* AchievementData.swift */; };
 		8ECCE4A623A7EE9F000124E5 /* AchievementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECCE4A523A7EE9F000124E5 /* AchievementViewController.swift */; };
@@ -22,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8E1EBFA423A841CF00E57209 /* ACHIEVEMENTS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ACHIEVEMENTS.json; sourceTree = "<group>"; };
 		8E39968623A7B546002CA841 /* stadia_achievements.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = stadia_achievements.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E39968923A7B546002CA841 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8E39968B23A7B546002CA841 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -30,7 +31,6 @@
 		8E39969223A7B547002CA841 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E39969523A7B547002CA841 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E39969723A7B547002CA841 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8E39969D23A7B5AA002CA841 /* ACHIEVEMENTS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ACHIEVEMENTS.json; sourceTree = "<group>"; };
 		8E3996A223A7B7B1002CA841 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		8E3996A423A7BCAB002CA841 /* AchievementData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementData.swift; sourceTree = "<group>"; };
 		8ECCE4A523A7EE9F000124E5 /* AchievementViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementViewController.swift; sourceTree = "<group>"; };
@@ -73,8 +73,8 @@
 				8E3996A123A7B761002CA841 /* Controller */,
 				8E39968923A7B546002CA841 /* AppDelegate.swift */,
 				8E39968B23A7B546002CA841 /* SceneDelegate.swift */,
+				8E1EBFA423A841CF00E57209 /* ACHIEVEMENTS.json */,
 				8E39969223A7B547002CA841 /* Assets.xcassets */,
-				8E39969D23A7B5AA002CA841 /* ACHIEVEMENTS.json */,
 				8E39969423A7B547002CA841 /* LaunchScreen.storyboard */,
 				8E39969723A7B547002CA841 /* Info.plist */,
 			);
@@ -168,7 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E39969623A7B547002CA841 /* LaunchScreen.storyboard in Resources */,
-				8E39969E23A7B5AA002CA841 /* ACHIEVEMENTS.json in Resources */,
+				8E1EBFA523A841CF00E57209 /* ACHIEVEMENTS.json in Resources */,
 				8E39969323A7B547002CA841 /* Assets.xcassets in Resources */,
 				8E39969123A7B546002CA841 /* Main.storyboard in Resources */,
 			);

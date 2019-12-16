@@ -38,6 +38,7 @@ import Foundation
                         let title = game.applicationName
                         if !games.contains(title!){
                             games.append(title!)
+                            
                         }
                         
                     }
