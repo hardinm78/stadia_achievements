@@ -46,6 +46,9 @@ class AchievementViewController: UIViewController,UITableViewDelegate,UITableVie
         if gameAchievements[indexPath.row].progress == "100%"{
             cell.backgroundColor = .green
             cell.mikeImageView.isHidden = false
+        }else {
+            cell.backgroundColor = .white
+            cell.mikeImageView.isHidden = true
         }
         return cell
     }
