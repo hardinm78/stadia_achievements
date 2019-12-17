@@ -53,7 +53,7 @@ extension AchievementViewController: UITableViewDelegate,UITableViewDataSource {
             cell.backgroundColor = .green
             cell.mikeImageView.isHidden = false
         }else {
-            cell.backgroundColor = .white
+            cell.backgroundColor = .lightGray
             cell.mikeImageView.isHidden = true
         }
         return cell

@@ -21,6 +21,7 @@ class GameViewController: UIViewController {
         tableView.delegate = self
         tableView.dataSource = self
         dataManager.parseJSON()
+        tableView.register(UINib(nibName: "GameViewCell", bundle: nil), forCellReuseIdentifier: "GVCell")
         tableView.rowHeight = 60.0
     }
     
@@ -46,7 +47,7 @@ extension GameViewController: UITableViewDelegate,UITableViewDataSource{
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "GCell", for: indexPath) as! GameCell
+        let cell = tableView.dequeueReusableCell(withIdentifier: "GVCell", for: indexPath) as! GameViewCell
         let g = dataManager.games[indexPath.row]
         let a = dataManager.achievements
         var items = 0
@@ -62,6 +63,8 @@ extension GameViewController: UITableViewDelegate,UITableViewDataSource{
         }
         
         cell.titleLabel.text = g
+        
+        
         cell.progressLabel.text = "\(completedItems) | \(items)"
         cell.pView.progress = Float(completedItems)/Float(items)
         

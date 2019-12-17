@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E04F36023A918B800CBE629 /* GameViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E04F35E23A918B800CBE629 /* GameViewCell.swift */; };
+		8E04F36123A918B800CBE629 /* GameViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E04F35F23A918B800CBE629 /* GameViewCell.xib */; };
 		8E39968A23A7B546002CA841 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E39968923A7B546002CA841 /* AppDelegate.swift */; };
 		8E39968C23A7B546002CA841 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E39968B23A7B546002CA841 /* SceneDelegate.swift */; };
 		8E39968E23A7B546002CA841 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E39968D23A7B546002CA841 /* GameViewController.swift */; };
@@ -17,11 +19,12 @@
 		8E3996A523A7BCAB002CA841 /* AchievementData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3996A423A7BCAB002CA841 /* AchievementData.swift */; };
 		8ECCE4A623A7EE9F000124E5 /* AchievementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECCE4A523A7EE9F000124E5 /* AchievementViewController.swift */; };
 		8ECCE4A823A80143000124E5 /* AchievementCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECCE4A723A80143000124E5 /* AchievementCellTableViewCell.swift */; };
-		8ECCE4AA23A828BC000124E5 /* GameCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECCE4A923A828BC000124E5 /* GameCell.swift */; };
 		8EE14F9F23A9047300881C72 /* ACHIEVEMENTS.json in Resources */ = {isa = PBXBuildFile; fileRef = 8EE14F9E23A9047300881C72 /* ACHIEVEMENTS.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8E04F35E23A918B800CBE629 /* GameViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewCell.swift; sourceTree = "<group>"; };
+		8E04F35F23A918B800CBE629 /* GameViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GameViewCell.xib; sourceTree = "<group>"; };
 		8E39968623A7B546002CA841 /* stadia_achievements.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = stadia_achievements.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E39968923A7B546002CA841 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8E39968B23A7B546002CA841 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -34,7 +37,6 @@
 		8E3996A423A7BCAB002CA841 /* AchievementData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementData.swift; sourceTree = "<group>"; };
 		8ECCE4A523A7EE9F000124E5 /* AchievementViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementViewController.swift; sourceTree = "<group>"; };
 		8ECCE4A723A80143000124E5 /* AchievementCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementCellTableViewCell.swift; sourceTree = "<group>"; };
-		8ECCE4A923A828BC000124E5 /* GameCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCell.swift; sourceTree = "<group>"; };
 		8EE14F9E23A9047300881C72 /* ACHIEVEMENTS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ACHIEVEMENTS.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -87,7 +89,7 @@
 				8E3996A223A7B7B1002CA841 /* DataManager.swift */,
 				8E3996A423A7BCAB002CA841 /* AchievementData.swift */,
 				8ECCE4A723A80143000124E5 /* AchievementCellTableViewCell.swift */,
-				8ECCE4A923A828BC000124E5 /* GameCell.swift */,
+				8E04F35E23A918B800CBE629 /* GameViewCell.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -95,6 +97,7 @@
 		8E3996A023A7B75A002CA841 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8E04F35F23A918B800CBE629 /* GameViewCell.xib */,
 				8E39968F23A7B546002CA841 /* Main.storyboard */,
 			);
 			path = View;
@@ -171,6 +174,7 @@
 				8EE14F9F23A9047300881C72 /* ACHIEVEMENTS.json in Resources */,
 				8E39969323A7B547002CA841 /* Assets.xcassets in Resources */,
 				8E39969123A7B546002CA841 /* Main.storyboard in Resources */,
+				8E04F36123A918B800CBE629 /* GameViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -184,7 +188,7 @@
 				8E39968E23A7B546002CA841 /* GameViewController.swift in Sources */,
 				8E3996A323A7B7B1002CA841 /* DataManager.swift in Sources */,
 				8ECCE4A623A7EE9F000124E5 /* AchievementViewController.swift in Sources */,
-				8ECCE4AA23A828BC000124E5 /* GameCell.swift in Sources */,
+				8E04F36023A918B800CBE629 /* GameViewCell.swift in Sources */,
 				8ECCE4A823A80143000124E5 /* AchievementCellTableViewCell.swift in Sources */,
 				8E39968A23A7B546002CA841 /* AppDelegate.swift in Sources */,
 				8E39968C23A7B546002CA841 /* SceneDelegate.swift in Sources */,
