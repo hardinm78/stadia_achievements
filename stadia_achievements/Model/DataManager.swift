@@ -18,12 +18,11 @@ import Foundation
     
     
     mutating func parseJSON(){
-        let json = Bundle.main.url(forResource: "ACHIEVEMENTS", withExtension: "json")
+        
         do{
-            let jsonData = try Data(contentsOf: json!)
-            
+            let jsonData = try Data(contentsOf: Bundle.main.url(forResource: "ACHIEVEMENTS", withExtension: "json")!)
             let decoder = JSONDecoder()
-//            print(String(data: jsonData, encoding: .utf8))
+
             do {
                 let decodedData = try decoder.decode(AchievementData.self, from: jsonData)
                 if let items = decodedData.achievements["items"]{
@@ -38,19 +37,17 @@ import Foundation
                         let title = game.applicationName
                         if !games.contains(title!){
                             games.append(title!)
-                            
                         }
-                        
                     }
                 }
                 
             }catch{
-                print(error)
+                print(error.localizedDescription)
             }
             
             
         }catch{
-            
+            print(error.localizedDescription)
         }
         
         

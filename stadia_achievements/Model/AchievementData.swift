@@ -22,7 +22,4 @@ struct Achievement : Codable {
 }
 
 
-struct Game {
-    let title:String
-    var gAchievements:[Achievement] = []
-}
+

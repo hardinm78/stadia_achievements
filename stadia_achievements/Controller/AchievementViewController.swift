@@ -8,7 +8,7 @@
 
 import UIKit
 
-class AchievementViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
+class AchievementViewController: UIViewController {
     
     
     @IBOutlet weak var tableView: UITableView!
@@ -22,18 +22,24 @@ class AchievementViewController: UIViewController,UITableViewDelegate,UITableVie
         tableView.delegate = self
         tableView.dataSource = self
         tableView.rowHeight = 50.0
+        
         if game != nil && dataManager != nil {
             title = game
             for item in dataManager!.achievements{
-                
                 if item.applicationName == game {
                     gameAchievements.append(item)
                 }
-            }
-            
-        }
-             
+            }           
+        }        
     }
+}
+
+
+
+
+
+//MARK: - table view
+extension AchievementViewController: UITableViewDelegate,UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return gameAchievements.count
@@ -52,6 +58,4 @@ class AchievementViewController: UIViewController,UITableViewDelegate,UITableVie
         }
         return cell
     }
-    
-    
 }

@@ -1507,6 +1507,687 @@
       "achievementName": "Golden Nester",
       "description": "Defeated Kenny Crow.",
       "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Renegade",
+      "description": "Melee 5 enemies off a ledge",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Laying Down The Law",
+      "description": "Kill 6 enemies with the Revolver without reloading",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Reading the Past",
+      "description": "Translate one Monolith",
+      "progress": "100%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Glub Glub Glub",
+      "description": "Drown 3 enemies using a water finisher",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Keen Eye",
+      "description": "Unearth 40 Survival Caches",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Master and Apprentice",
+      "description": "Endurance Co-op Challenge: Escape the forest after surviving 10 days with at least 20 Artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Communication Skills",
+      "description": "Endurance Co-op Challenge: Kill 5 enemies that have been marked by your partner",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Alone Time",
+      "description": "Endurance Co-op Challenge: Spend at least one day more than 60 meters apart",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Bonding Time",
+      "description": "Endurance Co-op Challenge: Escape the forest after surviving for 7 days with at least 10 Artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Get Away from Her!",
+      "description": "Endurance Co-op Challenge: Kill an enemy melee attacking your partner",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "No One Left Behind",
+      "description": "Endurance Co-op Challenge: Revive a player 3 times in a single expedition",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Pick-Me-Up",
+      "description": "Endurance Co-op Challenge: Revive a player",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Team Survival",
+      "description": "Endurance Co-op Challenge: Escape the forest after 7 days without using a single revive",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Sisters of Athena",
+      "description": "Endurance Co-op Challenge: Kill a combined total of 25 enemies in a single Expedition",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Sisters of Artemis",
+      "description": "Endurance Co-op Challenge: Kill a combined total of 10 dangerous animals in a single Expedition",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Say \"Aaah\"",
+      "description": "Endurance Co-op Challenge: Eat with your partner while at least one of you is starving",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "\"Teamwork\"",
+      "description": "Endurance Co-op Challenge: Collect an Artifact while your partner is down",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Extreme Survivor",
+      "description": "Finish the game on Extreme Survivor difficulty",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Servant of the Witch",
+      "description": "Baba Yaga: Confuse an enemy with the Dreamstinger",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Persuasive Argument",
+      "description": "Baba Yaga: Confuse 3 enemies with one shot from the Dreamstinger",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Vasilisa\u0027s Lanterns",
+      "description": "Baba Yaga: Complete the Challenge in the Wicked Vale",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "The Witch Bottles",
+      "description": "Baba Yaga: Unearth all Survival Caches in the Wicked Vale",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Season of the Witch",
+      "description": "Baba Yaga: Collect 50% of the Documents in the Wicked Vale",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Complete History of Witchcraft",
+      "description": "Baba Yaga: Collect all of the Documents in the Wicked Vale",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Witch-Hunt",
+      "description": "Baba Yaga: Complete a Wicked Vale Score Attack with a gold score",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Witch Trials",
+      "description": "Baba Yaga: Complete every Wicked Vale Score Attack with a gold score",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Witchcraft for Beginners",
+      "description": "Baba Yaga: Attempt any Wicked Vale Score Attack",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Witch\u0027s Wardrobe",
+      "description": "Baba Yaga: Equip the Dreamstinger and Wraithskin outfit together",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "For the Night is Dark",
+      "description": "Endurance Co-op Challenge: Clear 3 Enemy Camps at night in a single expedition",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Teamwork",
+      "description": "Endurance Co-op Challenge: Warm up from freezing by standing next to a campfire lit by your partner",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Siberian Ranger",
+      "description": "Beat 15 combat encounters after completing the game",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Challenging",
+      "description": "Complete any Challenge Tomb",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "No Stone Unturned",
+      "description": "Achieve 100% game completion",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Untouchable",
+      "description": "Replay 5 different levels without taking any damage",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Bacon!",
+      "description": "Kill a razorback boar using a Molotov cocktail",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Huntress",
+      "description": "Kill 50 animals while wearing the Huntress outfit",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Golden Child",
+      "description": "Complete every level in Score Attack with a gold score",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Zipper",
+      "description": "Perform a manual zip line transfer",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Vacation",
+      "description": "Endurance Challenge: Escape the forest after surviving for 7 days",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Nope",
+      "description": "Endurance Challenge: Escape the forest on day 1, without recovering any artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Fast Reflexes",
+      "description": "Endurance Challenge: Destroy 3 ceiling spike traps after being caught in them",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Still Tastes Good",
+      "description": "Endurance Challenge: Eat the meat of 5 wolves that were killed with poison damage",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Well Done",
+      "description": "Endurance Challenge: Eat the meat of 5 birds, squirrels, or rabbits that were killed with fire",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Master Archaeologist",
+      "description": "Endurance Challenge: Collect at least 10 Artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Skillful Raider",
+      "description": "Endurance Challenge: Open 5 Codices or Sarcophagi without getting caught in a trap",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Raider",
+      "description": "Endurance Challenge: Open 5 Codices or Sarcophagi",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Home Raider",
+      "description": "Blood Ties: Collect all of the Relics in Croft Manor",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Key to the Past",
+      "description": "Blood Ties: Acquire the Master Key",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "To the Rescue",
+      "description": "Cold Darkness Challenge: Rescue 6 prisoners",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Complete Family History",
+      "description": "Blood Ties: Collect all of the Documents in Croft Manor",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Enter the Nightmare",
+      "description": "Lara\u0027s Nightmare: Destroy a Skull of Rage",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Chemical Warfare",
+      "description": "Kill 5 enemies with one Poison Arrow",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Following in Father\u0027s Footsteps",
+      "description": "Enter the Syrian tomb of the Lost Prophet",
+      "progress": "100%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Great Haul",
+      "description": "Endurance Challenge: Escape the forest after surviving 10 days, with at least 10 Artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Happy Camper",
+      "description": "Endurance Challenge: Survive for 5 days",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Bar Brawl",
+      "description": "Melee kill an enemy using a bottle",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "One-Sided Conversation",
+      "description": "Stealth kill an enemy while he is having a conversation",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Blade of Justice",
+      "description": "Perform 25 special stealth kills with the knife",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "English Pedigree",
+      "description": "Headshot an enemy with an arrow from a distance beyond 25m",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Craftswoman",
+      "description": "Craft 5 pieces of Equipment",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Fluent",
+      "description": "Reach max proficiency in one language",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Master Fletcher",
+      "description": "Craft 25 of each special arrow type (Fire, Grenade, Poison)",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "That All You Got?",
+      "description": "Complete 3 Replay Challenges in one Score Attack level",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Iron Will",
+      "description": "Complete a level in Score Attack using 5 cards",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Avid Shopper",
+      "description": "Purchase all items from the Supply Shack",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Rotisserie",
+      "description": "Shoot a chicken out of the air with a fire arrow",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Fight the Fear",
+      "description": "Lara\u0027s Nightmare: Defeat 100 enemies",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Quiet Time",
+      "description": "Find the best seat in the house",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Paying Respects",
+      "description": "Attend a funeral",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Ultimate Survivor",
+      "description": "Finish the game on Survivor difficulty",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "For My Next Trick...",
+      "description": "Dive into a well",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "The Price of Truth",
+      "description": "Finish the game on any difficulty",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Triple Threat",
+      "description": "Kill 3 enemies with 1 Shotgun blast",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Firestarter",
+      "description": "Defeat two enemies or more using a single Molotov Cocktail",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Was That Really Necessary?",
+      "description": "Kill any animal with an explosive",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "A Trusty Old Friend",
+      "description": "Kill 5 enemies within 10 seconds using any rifle",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Fall Guys",
+      "description": "Kill 10 enemies by shooting them in the leg",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Weaponsmith",
+      "description": "Fully upgrade one weapon",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Trick Shot",
+      "description": "Shoot a bottle out of the air",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Last Ride of the Witch House",
+      "description": "Baba Yaga: Activate the Ancient Lift",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Truth Behind the Myth",
+      "description": "Baba Yaga: Unmask Baba Yaga",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "My Own Worst Enemy",
+      "description": "Complete a level in Score Attack with a card bonus of 200% or more",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "One Way to Do It",
+      "description": "Endurance Challenge: Warm up from freezing by standing in fire",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Who Needs a Map?",
+      "description": "Endurance Challenge: Locate 5 crypts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Nature Retreat",
+      "description": "Endurance Challenge: Survive for 7 days",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Great Outdoors",
+      "description": "Endurance Challenge: Survive for 10 days",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "A Moment of Clarity",
+      "description": "Baba Yaga: Face the Witch and live",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Amateur Chemist",
+      "description": "Baba Yaga: Craft the Antidote",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Hide and Seek",
+      "description": "Baba Yaga: Rescue Nadia from Trinity",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Abandon All Hope",
+      "description": "Baba Yaga: Enter the Wicked Vale",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Demon in the Dark",
+      "description": "Baba Yaga: Kill 10 enemies while wearing the Wraithskin outfit",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Bravo\u0027s Legacy",
+      "description": "Baba Yaga: Confuse 10 enemies with the Dreamstinger",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Henny Penny",
+      "description": "Baba Yaga: Fall to your death from the Lift",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "The Wraith of Siberia",
+      "description": "Baba Yaga: Kill 50 enemies while wearing the Wraithskin outfit",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Archaeologist",
+      "description": "Endurance Challenge: Collect at least 5 Artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Why the Chicken Crossed the Vale",
+      "description": "Baba Yaga: Ride the Lift back to the other side",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Looking for Trouble",
+      "description": "Complete 5 Challenges",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Compulsive",
+      "description": "Complete every Challenge",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Good Samaritan",
+      "description": "Complete 3 Missions",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Woman of the People",
+      "description": "Complete every Mission",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Quick and Painless",
+      "description": "Shoot 15 deer in the heart",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Tomb Raider",
+      "description": "Complete all Challenge Tombs in one playthrough",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Dead Ringer",
+      "description": "Get 25 headshots using the Bolt-Action Rifle",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Rapid Recovery",
+      "description": "Heal yourself in combat 3 times",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Fearless",
+      "description": "Defeat a Deathless Swordsman using only melee attacks and a finisher",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "No Guts, No Glory",
+      "description": "Perform a 2.5 second or longer swan dive",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Meet the Crofts",
+      "description": "Blood Ties: Collect 50% of the Documents in Croft Manor",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Relic Hunter",
+      "description": "Blood Ties: Collect 50% of the Relics in Croft Manor",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Legacy",
+      "description": "Blood Ties: Find truth of Croft Manor",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Master Detective",
+      "description": "Blood Ties: Open Lord Croft\u0027s Safe",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "A Dinner for Two",
+      "description": "Endurance Co-op Challenge: Eat the meat of 3 wolves with your partner",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "A Snack for Two",
+      "description": "Endurance Co-op Challenge: Eat the meat of 5 rabbits or squirrels with your partner",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Sweet Dreams",
+      "description": "Lara\u0027s Nightmare: Defeat the Nightmare",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "A Feast for Two",
+      "description": "Endurance Co-op Challenge: Eat the meat of 3 bears with your partner",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Adventure Friends",
+      "description": "Endurance Co-op Challenge: Escape the forest with 5 Artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Adventure Besties",
+      "description": "Endurance Co-op Challenge: Escape the forest with 5 Medium and Large Artifacts",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Quite the Collector",
+      "description": "Collect 150 cards",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "These Belong in A Museum",
+      "description": "Collect 300 cards",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Well Begun Is Half Done",
+      "description": "Complete 10 different levels in Score Attack with a gold score",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Gilded",
+      "description": "Complete a level in Score Attack with a gold score",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Truth Seeker",
+      "description": "Collect 25% of all narrative assets (relics, murals, and documents)",
+      "progress": "17%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Voices of the Past",
+      "description": "Collect 75% of all narrative assets (relics, murals, and documents)",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Self-Improvement Junkie",
+      "description": "Purchase all skills in one category",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Quite A Tumble",
+      "description": "Survive the avalanche",
+      "progress": "100%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Way to Go",
+      "description": "Complete every level in Score Attack with a bronze score or better",
+      "progress": "0%"
+    }, {
+      "applicationName": "Rise of the Tomb Raider: 20 Year Celebration",
+      "achievementName": "Fond Farewell",
+      "description": "Baba Yaga: Speak to Nadia again before leaving the Wicked Vale",
+      "progress": "0%"
     }]
   }
 }

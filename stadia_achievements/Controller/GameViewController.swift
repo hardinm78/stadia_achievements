@@ -8,17 +8,12 @@
 
 import UIKit
 
-class GameViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
-    
-    
+class GameViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
     
-    
     var dataManager = DataManager()
     var game = ""
-    
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,11 +21,26 @@ class GameViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
         tableView.delegate = self
         tableView.dataSource = self
         dataManager.parseJSON()
-        tableView.rowHeight = 50.0
-        
+        tableView.rowHeight = 60.0
     }
-
     
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        
+        if segue.identifier == "ToDetailVC" {
+            let destVC = segue.destination as! AchievementViewController
+            destVC.dataManager = dataManager
+            destVC.game = game
+        }
+    }
+}
+
+
+
+
+
+//MARK: - Tableview
+
+extension GameViewController: UITableViewDelegate,UITableViewDataSource{
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return dataManager.games.count
     }
@@ -48,12 +58,12 @@ class GameViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
                 if item.progress == "100%"{
                     completedItems += 1
                 }
-            }
-            
+            }            
         }
         
         cell.titleLabel.text = g
         cell.progressLabel.text = "\(completedItems) | \(items)"
+        cell.pView.progress = Float(completedItems)/Float(items)
         
         return cell
     }
@@ -61,21 +71,8 @@ class GameViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         game = dataManager.games[indexPath.row]
+        tableView.deselectRow(at: indexPath, animated: true)
         performSegue(withIdentifier: "ToDetailVC", sender: self)
     }
-    
-    
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        
-        if segue.identifier == "ToDetailVC" {
-            let destVC = segue.destination as! AchievementViewController
-            destVC.dataManager = dataManager
-            destVC.game = game
-            
-        }
-    }
-    
-    
-    
 }
 
