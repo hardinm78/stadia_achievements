@@ -17,7 +17,7 @@
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="yn4-md-OAb">
                                 <rect key="frame" x="0.0" y="88" width="414" height="774"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <color key="backgroundColor" red="0.35119149630000002" green="1" blue="0.030228332529999999" alpha="0.077295590760000005" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="separatorColor" red="0.080082134512142703" green="0.22802982233502533" blue="0.0068929612961564765" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </tableView>
                         </subviews>
@@ -79,6 +79,7 @@
                                                     </constraints>
                                                 </imageView>
                                             </subviews>
+                                            <color key="backgroundColor" red="0.3529411764705882" green="1" blue="0.031372549019607843" alpha="0.073014768839999994" colorSpace="custom" customColorSpace="displayP3"/>
                                             <constraints>
                                                 <constraint firstAttribute="trailing" secondItem="Mom-af-HXW" secondAttribute="trailing" constant="54" id="1IN-7O-Qa4"/>
                                                 <constraint firstItem="Mom-af-HXW" firstAttribute="leading" secondItem="amr-E3-Nr1" secondAttribute="leading" constant="20" id="3ia-BR-mKy"/>
@@ -126,6 +127,8 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="AmI-2q-loK">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" systemColor="systemGreenColor" red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="barTintColor" red="0.6962798315596006" green="0.97737547588832485" blue="0.61784641990626132" alpha="0.076332405826301367" colorSpace="custom" customColorSpace="displayP3"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
